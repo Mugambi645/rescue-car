@@ -1,0 +1,179 @@
+
+
+
+.header {
+  background-color: gray;
+  padding: 30px;
+
+}
+.header_right{
+
+  float: right;
+}
+@media screen and (max-width:600px){
+  text-aligh:fullscreen;
+  float:none;
+
+}
+
+
+.jungle {
+  background-image: url(https://images.unsplash.com/photo-1493238792000-8113da705763?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+
+background-repeat: no-repeat;
+background-size: cover;
+  text-align: center;
+  color: teal;
+
+  padding: 200px;
+}
+.jun{
+  background-image: url(https://images.unsplash.com/photo-1542377281-73d08e3a10aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+background-repeat: no-repeat;
+background-size: cover;
+padding: 200px;
+text-align: center;
+color: white;
+ }
+ .jiggle{
+   
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: wheat;
+   padding: 200px;
+   text-align: center;
+   background-color: gray;
+   width: 100%
+   
+ }
+.scrum {
+text-align: center;
+padding: 30px;
+background-color: black;
+
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ja {
+  text-align: center;
+  background-color: black;
+  padding: 160px;
+  color: white;
+}
+.zeus {
+  background-color: gray;
+  padding: 120px;
+}
+.juju {
+  text-align: center;
+  background-color: gray;
+  color:white;
+  padding: 150px;
+}
+
+.oo {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.car {
+  padding: 10px;
+/*  background-image: url(https://images.pexels.com/photos/1842623/pexels-photo-1842623.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat: no-repeat;
+  background-size: cover;*/
+  color: black;
+  text-align: center;
+  background-color: gray;
+
+}
+.alaf{
+  padding: 150px;
+  background-color: black;
+  color:white;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+.card {
+  box-shadow: 5%;
+  padding: 80px;
+  text-align: center;
+  background-color: teal;
+}
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+.ao {
+  padding: 40px;
+  margin: 10px
+}
+.juu {
+   background-color: gray;
+   color: white;
+   padding: 100px;
+   text-align: center;
+}
+.nemesis{
+  color: teal;
+}
+.ma {
+  float: right;
+
+}
+body {
+  padding: 0;
+  margin: 0;
+  background: #f2f6e9;
+}
+
+/*--- navigation bar ---*/
+
+.navbar {
+  background:#6ab446;
+}
+
+.nav-link,
+.navbar-brand {
+  color: #fff;
+  cursor: pointer;
+}
+
+.nav-link {
+  margin-right: 1em !important;
+}
+
+.nav-link:hover {
+  color: #000;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+.header {
+  background-image: url('images/header-background.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.for{
+  text-align: center;
+  padding: 20px;
+}
